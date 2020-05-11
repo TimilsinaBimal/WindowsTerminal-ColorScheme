@@ -1,10 +1,11 @@
 # Color Schemes for [Windows Terminal](https://github.com/microsoft/terminal) 
+## A Port of [Material Theme](https://github.com/material-theme/vsc-material-theme) , [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) and [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode) for [Windows Terminal](https://github.com/microsoft/terminal) 
 
 Schemes from left to right:
 
-* [Material Palenight](https://github.com/material-theme/vsc-material-theme)
-* [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
-* [Shades of Purple](https://github.com/ahmadawais/shades-of-purple-vscode)
+* Material Palenight
+* One Dark Pro
+* Shades of Purple
 
 ![Screenshot](https://raw.githubusercontent.com/TimilsinaBimal/WindowsTerminal-ColorScheme/master/screenshot.png)
 
